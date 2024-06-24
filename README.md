@@ -7,7 +7,7 @@
 **Modules Usage**
 
 
-To download via "downloader-cmd"
+**To download via "downloader-cmd"**
 
 Open the Download.java file with Notepad or Notepad++.
 
@@ -27,7 +27,7 @@ After download is complete, refresh "downloader-cmd" folder, you will find your 
 
 
 
-To download via "downloader-idea"
+**To download via "downloader-idea"**
 
 Open the project with IntelliJ IDEA
 
