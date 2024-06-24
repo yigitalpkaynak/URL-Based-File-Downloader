@@ -1,10 +1,10 @@
-# url-based-file-downloader
+### url-based-file-downloader
 
 
-3 types of url based file (pdf, audio, video, photo) downloader scripts has written in JAVA.
+# 3 types of url based file (pdf, audio, video, photo) downloader scripts has written in JAVA.
 
 
-**Modules Usage**
+## Modules Usage
 
 **To download via "PDFDownloader (JSoup Library)"**
 
