@@ -1,10 +1,31 @@
 # url-based-file-downloader
 
 
-2 types of url based file (pdf, audio, video, photo) downloader scripts has written in JAVA.
+3 types of url based file (pdf, audio, video, photo) downloader scripts has written in JAVA.
 
 
 **Modules Usage**
+
+**To download via "PDFDownloader (JSoup Library)"**
+
+Open the project with IntelliJ IDEA
+
+Change the "String url" as the link you want to download.
+
+Run the project.
+
+After download is complete, your downloaded file will be in "downloads" directory.
+
+
+**To download via "downloader-idea"**
+
+Open the project with IntelliJ IDEA
+
+Change the "String url" as the link you want to download.
+
+Run the project.
+
+After download is complete, your downloaded file will be in "files" directory.
 
 
 **To download via "downloader-cmd"**
@@ -24,15 +45,3 @@ Type "javac Download.java" and press enter.
 Type "java Download" and press enter.
 
 After download is complete, refresh "downloader-cmd" folder, you will find your downloaded file.
-
-
-
-**To download via "downloader-idea"**
-
-Open the project with IntelliJ IDEA
-
-Change the "String url" as the link you want to download.
-
-Run the project.
-
-After download is complete, your downloaded file will be in "files" directory.
